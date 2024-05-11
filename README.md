@@ -53,4 +53,4 @@ This will launch the application in your default browser, typically at `http://l
 
 This project provides a basic framework for a dice game. You can expand on it to create a more complex and engaging game experience.
 
-***Happy coding and have fun playing!***
+***Happy Coding and have fun playing!***
